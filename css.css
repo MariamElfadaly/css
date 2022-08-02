@@ -1,0 +1,221 @@
+.body {
+  background-color: #ffece8;
+  margin: 0;
+  padding: 0;
+}
+
+.header-main {
+  border: 1px solid rgb(206, 104, 104, 0.9);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+}
+.header-com {
+  display: flex;
+  margin-right: 150px;
+  color: #ce6868;
+  width: 30%;
+  justify-content: space-around;
+  list-style: none;
+  text-decoration: none;
+}
+.aa:hover {
+  color: #ce6868;
+}
+.aa:link {
+  color: #ce6868;
+}
+.aa:visited {
+  color: #ce6868;
+}
+.aa:active {
+  color: #ce6868;
+}
+
+.contactme {
+  list-style: none;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.header-com a {
+  text-decoration: none;
+}
+.contactme a {
+  text-decoration: none;
+}
+.section1title {
+  font-size: 80px;
+  color: #ce6868;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.section1title1 {
+  font-size: 80px;
+  color: #feece8;
+  text-shadow: 4px 4px 14px #ce6868;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.text {
+  color: #ce6868;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.titlebox {
+  width: 50%;
+  /* width: 700px; */
+  height: 700px;
+  border: #ce6868 1px solid;
+}
+/* .img {
+  width: 50px;
+  height: 50px;
+} */
+/* .alllogo {
+  display: flex;
+  margin-left: 250px;
+  border: #ce6868 1px solid;
+} */
+.section2 {
+  border: #ce6868 1px solid;
+  width: 50%;
+  height: 700px;
+  margin-left: 50%;
+  margin-top: -702px;
+}
+.img1,
+.img2,
+.img3 {
+  width: 40%;
+  height: auto;
+}
+
+.section3 {
+  width: 100%;
+  height: 2900px;
+  border: #ce6868 1px solid;
+  /* margin-left: 5px;
+  margin-right: 5px;
+   */
+  margin: 0;
+  padding: 0;
+}
+.SRECTION3HEADER,
+.Recommendations {
+  font: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 80px;
+  color: #ce6868;
+  margin-left: 50px;
+}
+.section3text {
+  color: #ce6868;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  margin-left: 50px;
+}
+.proj-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.proj {
+  margin-top: 100px;
+}
+button {
+  margin-left: 70px;
+}
+.f {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #ce6868;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+/* .portfolio1,
+.portfolio2,
+.portfolio3 {
+  width: 500px;
+  height: 455px;
+  border: 1px solid #ce6868;
+  margin-top: 40px;
+  margin-left: 40px;
+  padding: 20px;
+  margin-left: 50px;
+}
+.portfolio2 {
+  margin-left: 700px;
+  margin-top: -550px;
+}
+.portfolio3 {
+  margin-top: 100px;
+}
+.portfoliimg {
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  display: flex;
+  justify-content: center; */
+/* margin-left: 50px; */
+/* } */
+
+.Recommendations {
+  font: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 80px;
+  color: #ce6868;
+  margin-left: 50px;
+}
+.img11 {
+  width: 50px;
+  margin-left: 50px;
+}
+.recomendationbox {
+  width: 400px;
+}
+.text1 {
+  font: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  color: #ce6868;
+  margin-left: 50px;
+  /* font-size: 20px; */
+}
+.text2 {
+  color: #ce6868;
+  font-size: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  line-height: 0%;
+  margin-left: 50px;
+}
+.text3 {
+  color: #ce6868;
+  font-size: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 0%;
+  margin-left: 50px;
+}
+.text4 {
+  color: #ce6868;
+  margin-left: 50px;
+}
+.reco-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 40px;
+  margin-left: 40px;
+}
